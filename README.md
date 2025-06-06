@@ -12,11 +12,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 🌱 Learning
-- Network modelling
 - System design
-- Java Web Development
 - Python scripting
-- Database management (AWS, PostgreSQL, Redis, MySQL)
+- Database management (MySQL)
 
 ## 📊 GitHub Stats
 <p align="center">
