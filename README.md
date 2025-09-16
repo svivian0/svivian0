@@ -12,9 +12,13 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 🌱 Learning
-- BackEnd Development
-- Python scripting
-- Database management (MySQL)
+- C#
+- PHP
+- Functional Programming
+
+## 📖 Knowledge
+- Pyhton
+- MySQL
 
 
 ## 💡 My Setup
