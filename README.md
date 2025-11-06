@@ -13,7 +13,7 @@
 
 ## 🌱 Learning
 - C++
-- PHP
+- C
 - Functional Programming
 
 ## 📖 Knowledge
