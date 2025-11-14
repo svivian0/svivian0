@@ -28,5 +28,5 @@
   "CPU": "Intel i5 10400F",
   "GPU": "RX 580 2048SP",
   "RAM": "16GB DDR4",
-  "OS": "Windows 10 Pro"
+  "OS": "ZorinOS"
 }
