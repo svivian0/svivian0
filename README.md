@@ -17,7 +17,7 @@
 - Functional Programming
 
 ## 📖 Knowledge
-- Pyhton
+- Python
 - MySQL
 
 
