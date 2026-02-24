@@ -14,7 +14,7 @@
 ## 🌱 Learning
 - Lua
 - C
-- Functional Programming
+- Cybersec
 
 ## 📖 Knowledge
 - Python
