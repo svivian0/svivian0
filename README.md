@@ -1,7 +1,7 @@
 # Samuel Vivian
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sysadmin+%7C+Database+%7C+Python" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/originals/fe/4c/43/fe4c439f3a1be55b255b19718bd01c52.gif" />
 </p>
 
 ## 🛠️ My Tech Stack
@@ -20,7 +20,7 @@
 - Python
 - MySQL
 
-![PC](https://i.pinimg.com/originals/fe/4c/43/fe4c439f3a1be55b255b19718bd01c52.gif).
+
 
 
 ## 💡 My Setup
