@@ -1,6 +1,8 @@
 # Samuel Vivian
-
+<div align="center">
 ## Welcome to my github page
+</div>
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/fe/4c/43/fe4c439f3a1be55b255b19718bd01c52.gif" />
