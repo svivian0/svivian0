@@ -1,6 +1,6 @@
 # Samuel Vivian
 <div align="center">
-## Welcome to my github page
+Welcome to my github page
 </div>
 
 
