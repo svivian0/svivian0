@@ -1,37 +1,22 @@
 # Samuel Vivian
-<div align="center">
-Welcome to my github page
-</div>
 
+Developer focused on building reliable software and continuously expanding technical knowledge.
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/fe/4c/43/fe4c439f3a1be55b255b19718bd01c52.gif" />
-</p>
+## Tech Stack
 
-## 🛠️ My Tech Stack
+**Proficient**
 
-### 💻 Hardware & PC Building
-![AMD](https://img.shields.io/badge/AMD-%23ED1C24.svg?style=for-the-badge&logo=AMD&logoColor=white)
-![Intel](https://img.shields.io/badge/Intel-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-## 🌱 Learning
-- Go
-- Kotlin
-- Programming using AI
-
-## 📖 Knowledge
-- Python
+- Python (Flask, Numpy, Tkinter)
 - MySQL
 
+**Currently Learning**
 
+- Go
+- Kotlin
+- AI-assisted development
+  
+## Contact
+Linkedin - linkedin.com/in/samukarockenbach/
+X - https://x.com/svivian0
 
-
-## 💡 My Setup
-```json
-{
-  "CPU": "Intel i5 10400F",
-  "GPU": "RX 580 2048SP",
-  "RAM": "16GB DDR4",
-  "OS": "Win11"
-}
+Feel free to explore my repositories and reach out if you'd like to collaborate.
