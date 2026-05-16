@@ -18,6 +18,7 @@ Welcome to my github page
 ## 🌱 Learning
 - Go
 - Kotlin
+- Programming using AI
 
 ## 📖 Knowledge
 - Python
