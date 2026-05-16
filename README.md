@@ -16,9 +16,8 @@ Welcome to my github page
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 🌱 Learning
-- Lua
-- C
-- Cybersec
+- Go
+- Kotlin
 
 ## 📖 Knowledge
 - Python
