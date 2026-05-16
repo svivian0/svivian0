@@ -17,7 +17,7 @@ Developer focused on building reliable software and continuously expanding techn
 - AI-assisted development
   
 ## Contact
-- Linkedin - https://linkedin.com/in/samukarockenbach/
+- Linkedin - www.linkedin.com/in/samuel-r-vivian
 - X - https://x.com/svivian0
 
 Feel free to explore my repositories and reach out if you'd like to collaborate.
