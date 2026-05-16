@@ -13,6 +13,7 @@ Developer focused on building reliable software and continuously expanding techn
 
 - Go
 - Kotlin
+- TypeScript
 - AI-assisted development
   
 ## Contact
