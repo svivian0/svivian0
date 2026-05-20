@@ -6,7 +6,7 @@ Developer focused on building reliable software and continuously expanding techn
 
 **Proficient**
 
-- Python (Flask, Numpy, Tkinter)
+- Python (Flask, Tkinter)
 - MySQL
 
 **Currently Learning**
