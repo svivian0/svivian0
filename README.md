@@ -11,9 +11,10 @@ Developer focused on building reliable software and continuously expanding techn
 
 **Currently Learning**
 
-- Go
-- Kotlin
-- TypeScript
+- Functional programing
+- FastAPI
+- C
+- Haskell
 - AI-assisted development
   
 ## Contact
