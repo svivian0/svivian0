@@ -13,8 +13,7 @@ Developer focused on building reliable software and continuously expanding techn
 
 - Functional programing
 - FastAPI
-- C
-- Haskell
+- Go
 - AI-assisted development
   
 ## Contact
