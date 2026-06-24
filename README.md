@@ -12,7 +12,7 @@ Developer focused on building reliable software and continuously expanding techn
 **Currently Learning**
 
 - Functional programing
-- Go
+- FastAPI
 - AI-assisted development
   
 ## Contact
