@@ -8,6 +8,7 @@ Developer focused on building reliable software and continuously expanding techn
 
 - Python
 - MySQL
+- Linux 
 
 **Currently Learning**
 
