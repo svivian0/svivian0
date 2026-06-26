@@ -7,8 +7,8 @@ Developer focused on building reliable software and continuously expanding techn
 **Proficient**
 
 - Python
-- MySQL
-- Linux 
+- SQL database
+- Linux CLI
 
 **Currently Learning**
 
