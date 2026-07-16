@@ -15,6 +15,7 @@ Developer focused on building reliable software and continuously expanding techn
 - Functional programing
 - FastAPI
 - AI-assisted development
+- Data Analysis
   
 ## Contact
 - Linkedin - www.linkedin.com/in/samuel-r-vivian
