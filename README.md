@@ -14,7 +14,7 @@ Developer focused on building reliable software and continuously expanding techn
 
 - Functional programing
 - FastAPI
-- AI-assisted development
+- Pandas
 - Data Analysis
   
 ## Contact
