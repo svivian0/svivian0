@@ -1,6 +1,6 @@
 # Samuel Vivian
 
-A technican focused on building reliable software and continuously expanding technical knowledge.
+A technician focused on building reliable software and continuously expanding technical knowledge.
 
 ## Tech Stack
 
