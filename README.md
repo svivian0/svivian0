@@ -6,16 +6,14 @@ A technician focused on building reliable software and continuously expanding te
 
 **Proficient**
 
-- Python
-- SQL database
-- Linux CLI
+- Python (FastAPI/Flask)
+- SQL database (MySQL)
+- Linux/Windows CLI
 
 **Currently Learning**
 
 - Functional programing
-- FastAPI
-- Pandas
-- Data Analysis
+- Computer's Network
   
 ## Contact
 - Linkedin - www.linkedin.com/in/samuel-r-vivian
