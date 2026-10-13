@@ -9,6 +9,7 @@ A technician focused on building reliable software and continuously expanding te
 - Python (FastAPI/Flask)
 - SQL database (MySQL)
 - Linux/Windows CLI
+- Hardware Support and PC Assembly/Repair
 
 **Currently Learning**
 
