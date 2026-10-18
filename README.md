@@ -14,6 +14,7 @@ A technician focused on infrastructure and continuously expanding technical know
 **Currently Learning**
 
 - Functional programing
+- Shell scripting (bash)
 - Computer's Network
   
 ## Contact
