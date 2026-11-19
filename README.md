@@ -15,6 +15,7 @@ A technician focused on infrastructure and continuously expanding technical know
 
 - Functional programing
 - Shell scripting (bash)
+- C programing
 - Computer's Network
   
 ## Contact
