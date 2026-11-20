@@ -10,13 +10,12 @@ A technician focused on infrastructure and continuously expanding technical know
 - SQL database (MySQL)
 - Linux/Windows CLI
 - Hardware Support and PC Assembly/Repair
+- Computer's Network
 
 **Currently Learning**
 
 - Functional programming
-- Shell scripting (bash)
 - C programming
-- Computer's Network
   
 ## Contact
 - My Website - https://svivian0.github.io/crows-site/
